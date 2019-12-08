@@ -1,0 +1,12 @@
+D:\Git\WCK\P_Project\P_Project\bin\Debug\P_Project.exe.config
+D:\Git\WCK\P_Project\P_Project\bin\Debug\P_Project.exe
+D:\Git\WCK\P_Project\P_Project\bin\Debug\P_Project.pdb
+D:\Git\WCK\P_Project\P_Project\bin\Debug\P_Project.xml
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.vbprojAssemblyReference.cache
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.Resources.resources
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.vbproj.GenerateResource.cache
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.vbproj.CoreCompileInputs.cache
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.exe
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.xml
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.pdb
+D:\Git\WCK\P_Project\P_Project\obj\Debug\P_Project.P_PROJECT.resources
